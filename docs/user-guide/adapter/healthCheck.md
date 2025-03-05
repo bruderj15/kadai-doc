@@ -32,7 +32,7 @@ When all of the services are healthy, it will give the following response:
         "Kadai Health": {
             "status": "UP",
             "details": {
-                "Kadai Version": "9.2.0"
+                "Kadai Version": "9.3.0"
             }
         },
         "Outbox Health": {
